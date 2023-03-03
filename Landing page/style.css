@@ -1,0 +1,225 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+*{
+   margin: 0; 
+   padding: 0;
+   
+   /* background-color:rgba(246, 210, 228, 0.803); */
+}
+
+.container{
+   max-width: 90vw;
+   border: 20cm;
+   
+  
+}
+
+.font-bold{
+  font-size:xx-large;
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+}
+
+p{
+    color: rgb(171, 65, 116); 
+}
+
+.navbar li{
+    color: rgb(129, 10, 68);
+    list-style: none;
+    margin:0 12px;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+
+.section1{
+    
+    max-height: 700px; 
+   
+}
+
+.topleft{
+     width: 30%;
+
+}
+
+.middle{
+    width: 45%;
+     /* height: 50px;  */
+
+}
+
+.topright{
+    width: 30%;
+    color: rgb(129, 10, 68);
+    /* text-align: center; */
+    
+     /* justify-content: center; */
+     /* height: 0%; */
+     padding: 100px 10px;  
+    /* background-color: aqua; */
+}
+
+.topright h4{
+     padding: 30px 0;
+     text-align: center;
+}
+.program {
+    padding: 50px 10px ;
+}
+
+.program h3{
+   padding: 100px 10px;
+}
+
+.program li{
+    list-style: none;
+    padding: 10px 10px;
+}
+
+h1,h2{
+    font-size:30px;
+    text-align: center;
+    color: rgb(129, 10, 68);
+    /* background-color: cadetblue; */
+
+}
+
+
+.section1 h4{
+    text-align: center;
+    /* min-height: 10%; */
+    
+}
+
+.section1 p{
+    text-align: center;
+    font-size:15px;
+}
+
+.section2 h5{
+     padding: 10px; 
+    text-align: center;
+    color: rgb(129, 10, 68);
+    cursor:pointer;
+}
+
+.section2 h1{
+    margin: 12px 2px; 
+    
+}
+
+.section2 p{
+     padding: 0 8vw; 
+    text-align: center;
+}
+
+.boxes{
+    padding:10px 14px ;
+}
+
+.box{
+    
+    color: rgb(171, 65, 116); 
+    padding:  8px 0px; 
+    margin:  22px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(92, 4, 47);
+    /* border-radius: 8px; */
+     text-align: center;  
+     width: 200px;
+}
+
+.section3{
+    padding: 73px;
+    
+}
+.section3 table{
+    width: 100%;
+    margin-bottom: 140px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+.section3 table th{ 
+    width: 23vw; 
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+} 
+
+.section3 table td{   
+    border-bottom: 2px solid black; 
+} 
+
+.logo{
+    font-size: 1.3rem;
+    color: rgb(129, 10, 68);
+ }
+
+ .heigth{
+    
+     padding: 30px 10px;
+     text-align: center;
+     
+ }
+
+ .my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+ }
+
+ .overflow-x-hiddden{
+    overflow-x: hidden;
+ }
+
+ .gympng{
+     width: 110%; 
+    /* height: 100%;  */
+    /* align-content: end; */
+    /* justify-content: end; */
+      padding-left: 100px;  
+       padding: 00px 00px; 
+    /* border-radius: 100px; */
+    
+    
+ }
+
+ .buttons{
+         display: flex;
+         justify-content:center;
+         align-items:center;
+         margin:1px 2px;
+         /* padding: 10px 0px; */
+         padding-inline: 10px;
+         /* background-color: aquamarine; */
+         
+         
+
+         
+ }
+
+ .deal{
+      font-size: 1.2rem;
+      font-weight: bolder;
+      margin:32px 0;
+      /* width: 100px; */
+      
+ }
+
+ .footer{
+    padding: 23px;
+    text-align: center;
+    color: rgb(171, 65, 116); 
+ }
+
+ .section3 td{
+    color: rgb(171, 65, 116); 
+ }
+
+ .section3 th{
+    color: rgb(129, 10, 68);
+ }
+
